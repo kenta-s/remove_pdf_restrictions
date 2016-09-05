@@ -6,12 +6,12 @@ require 'remove_pdf_restrictions/version'
 Gem::Specification.new do |spec|
   spec.name          = "remove_pdf_restrictions"
   spec.version       = RemovePdfRestrictions::VERSION
-  spec.authors       = ["Kenta"]
-  spec.email         = ["shirai.kenta@vareal.co.jp"]
+  spec.authors       = ["Kenta-s"]
+  spec.email         = ["knt01222@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Remove PDF restrictions without password.}
+  spec.description   = %q{Remove PDF restrictions without password.}
+  spec.homepage      = "https://github.com/kenta-s/remove_pdf_restrictions"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
