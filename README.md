@@ -22,6 +22,8 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
+require 'remove_pdf_restrictions'
+
 RemovePdfRestrictions.execute!('/path/to/yourfile.pdf') # Must be full path.
 ```
 
